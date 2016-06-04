@@ -20,7 +20,7 @@ var argv = [
 var options = {
   '-f': 1, // count of the option parameters
   '-r': 0,
-  '-watch': 'multiple', //include all follow parameters until find next option
+  '-watch': 'multiple', //include all following parameters until finding the next option
 };
 var ret = argvParser(argv, options);
 console.log(ret);
