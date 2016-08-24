@@ -1,4 +1,4 @@
-test/
+test.js
 .jshintrc
 node_modules/
 npm-debug.log
